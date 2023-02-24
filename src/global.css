@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --subtitle1: Roboto;
+  --h21: Montserrat;
+
+  /* font sizes */
+  --subtitle1-size: 12px;
+  --button1-size: 16px;
+  --h41-size: 24px;
+  --h21-size: 40px;
+  --font-size-xl: 58px;
+
+  /* Colors */
+  --light-text1: #fff;
+  --second-text2: #737373;
+  --second-text3: #5c5c5c;
+  --dark-background1: #252b42;
+  --color-orangered: #fa4a0c;
+  --color-whitesmoke: #f6f6f6;
+
+  /* Gaps */
+  --gap-xs: 7px;
+  --gap-sm: 16px;
+  --gap-md: 24px;
+  --gap-lg: 94px;
+
+  /* Paddings */
+  --padding-xs: 10px;
+  --padding-sm: 16px;
+  --padding-md: 20px;
+  --padding-lg: 45px;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 30px;
+}

@@ -1,0 +1,36 @@
+.image4-icon {
+  position: absolute;
+  top: 490px;
+  left: 346px;
+  width: 652px;
+  height: 886px;
+  object-fit: cover;
+}
+.hr {
+  position: absolute;
+  top: 1377.41px;
+  left: 276.5px;
+  border-top: 3px solid #e4e4e4;
+  box-sizing: border-box;
+  width: 887px;
+  height: 3px;
+}
+.how-the-app {
+  position: absolute;
+  top: 1451px;
+  left: 495px;
+  letter-spacing: 0.1px;
+  line-height: 36px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+.foodapp {
+  position: relative;
+  background-color: var(--light-text1);
+  width: 100%;
+  height: 4423px;
+  text-align: left;
+  font-size: 44px;
+  color: #000;
+  font-family: var(--font-poppins);
+}

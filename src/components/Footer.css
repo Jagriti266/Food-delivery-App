@@ -1,0 +1,70 @@
+.image-12-icon {
+  position: absolute;
+  top: -15.9px;
+  left: -24.5px;
+  width: 254px;
+  height: 110px;
+  object-fit: cover;
+}
+.content-logo-light {
+  position: absolute;
+  top: calc(50% - 38.5px);
+  left: 91.5px;
+  width: 206px;
+  height: 78px;
+}
+.copywright-2020-bella {
+  position: relative;
+  letter-spacing: 0.1px;
+  line-height: 18px;
+}
+.subtitle {
+  position: absolute;
+  top: calc(50% - 2.5px);
+  right: 35px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-xs);
+  align-items: center;
+  justify-content: flex-start;
+}
+.ant-designtwitter-outlined-icon {
+  position: relative;
+  width: 40.99px;
+  height: 40.99px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.social-media {
+  position: absolute;
+  top: calc(50% - 20.5px);
+  left: calc(50% - 85px);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.instagram-icon {
+  position: absolute;
+  top: 47.1px;
+  left: 650px;
+  width: 39px;
+  height: 39px;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  top: 4236.9px;
+  left: 115px;
+  background-color: var(--light-text1);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 1210px;
+  height: 133px;
+  text-align: right;
+  font-size: var(--subtitle1-size);
+  color: var(--second-text3);
+  font-family: var(--subtitle1);
+}
